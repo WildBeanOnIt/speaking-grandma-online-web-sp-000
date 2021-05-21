@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma
+def speak_to_grandma(I love you GRANDMA)
 end
 
 # Whatever you say to grandma, she should respond with
